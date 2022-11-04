@@ -1,6 +1,5 @@
 javascript:
 var height = prompt("What height are you jumping from (meters)? ");
-var weight = prompt("What is your weight (in kg)?");
 
 var s1 = 9.8 * height;
 var s2 = s1 * 2;
